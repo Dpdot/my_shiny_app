@@ -1,0 +1,13 @@
+name: blg_calculator
+title: blg_calculator
+username:
+account: daniel23rapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8864499
+bundleId: 7110868
+url: https://daniel23rapps.shinyapps.io/blg_calculator/
+when: 1681933208.75508
+lastSyncTime: 1681933208.75515
+asMultiple: FALSE
+asStatic: FALSE

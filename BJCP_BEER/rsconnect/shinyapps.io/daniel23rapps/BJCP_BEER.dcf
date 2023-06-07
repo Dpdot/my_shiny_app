@@ -1,0 +1,13 @@
+name: BJCP_BEER
+title: BJCP_BEER
+username:
+account: daniel23rapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8894517
+bundleId: 7185510
+url: https://daniel23rapps.shinyapps.io/BJCP_BEER/
+when: 1683477484.90522
+lastSyncTime: 1683477484.90524
+asMultiple: FALSE
+asStatic: FALSE
